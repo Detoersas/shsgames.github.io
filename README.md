@@ -6,7 +6,7 @@ Collectively building an online game hub for the brave!
 
 ---
 ## About
-SHS Games is a free and open source hub for games. Designed to be unblocked and available for everyone anytime.
+LEO PLUS is a free and open source hub for games. Designed to be unblocked and available for everyone anytime.
 
 [License](./LICENSE.md) • [Privacy Statement](./PRIVACY.md)
 
